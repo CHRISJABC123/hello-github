@@ -8,6 +8,6 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("hello GitHub");
         System.out.println("hello ");
-		System.out.println("BASHÉÏ´«");
+		System.out.println("BASHä¸Šä¼ ");
     }
 }
